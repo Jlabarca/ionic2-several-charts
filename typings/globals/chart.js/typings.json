@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/c551471a2dd1a44a083a37ac1ebc236e515ed1e9/chart.js/chart.js.d.ts",
+    "raw": "registry:dt/chart.js#0.0.0+20160805131920",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/c551471a2dd1a44a083a37ac1ebc236e515ed1e9/chart.js/chart.js.d.ts"
+  }
+}

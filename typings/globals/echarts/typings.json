@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3305eb6f74a2de17d208dfaaa20d69cfb912f871/echarts/echarts.d.ts",
+    "raw": "registry:dt/echarts#0.0.0+20160409144419",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3305eb6f74a2de17d208dfaaa20d69cfb912f871/echarts/echarts.d.ts"
+  }
+}

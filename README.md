@@ -1,9 +1,7 @@
 # ionic2-several-charts
 
-# Ionic2-several-charts
-
 Comparison between Chart.js, Highcharts, echarts and c3.js on Ionic 2 framework
-showing different ways to implement external javascript libraries on a ionic 2/angular 2 project
+showing different ways to implement external javascript libraries.
 
 ## Installation
 After clone you should install npm dependencies and restore the project state

@@ -25,7 +25,7 @@ chart.js was implemented using https://github.com/zyramedia/ng2-chartjs2 module.
 You can use this repo for some kind of performance testing on android/ios devices.
 I was looking for multiple lines charts, zoom/panning,  500+ data values.
 
-1. highcharts was the best on frames/animated performance
+1. highcharts was the best on frames/animation performance
 2. C3.js 
 3. chart.js(2.2) 
 4. echarts
